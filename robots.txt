@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://osiqeifu.github.io/sitemap_index.osiqeifu
